@@ -1,6 +1,6 @@
 # tcs_nqt_2025
 
-TCS NQT 2025 syllabus, free preparation, cheatsheets, aptitude notes & interview important questions-answers are available here.
+TCS NQT 2025 syllabus, free preparation, cheatsheets, aptitude & coding pyqs with solution, aptitude notes & interview important questions-answers are available here.
 
 ## Recommended youtube channels for aptitude:
 CareerRide, KG Job Updates by Yash Sir
