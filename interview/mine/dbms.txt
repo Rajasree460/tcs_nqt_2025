@@ -1,0 +1,4 @@
+1.what is dbms
+2.sql- its structured query lang. To connect with db, to perform operations we need to use it.
+3.normalization
+4.explain its normal forms & their diff

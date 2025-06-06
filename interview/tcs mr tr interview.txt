@@ -1,0 +1,64 @@
+Where do we use malloc
+For dynamic memory allocation we use it, like we use it in linked list
+ 
+Diff between calloc & malloc 
+Malloc allocates only the requested memory block of memory. Calloc allocates memory according to the specified number of blocks of memory of a specific type
+
++----------------------------+-----------------------------------------------+--------------------------------------------------+
+| Feature                    | malloc()                                      | calloc()                                         |
++----------------------------+-----------------------------------------------+--------------------------------------------------+
+| Function                   | Allocates memory                              | Allocates and also initializes memory            |
+| Initialization             | Does NOT initialize (contains garbage values) | Initializes all bytes to zero                    |
+| Syntax                     | malloc(size)                                  | calloc(num, size)                                |
+| Parameters                 | Single argument (total bytes)                 | Two arguments (num of blocks, size per block)    |
+| Return Type                | void *                                        | void *                                           |
+| Example                    | int *p = (int *)malloc(5 * sizeof(int));      | int *p = (int *)calloc(5, sizeof(int));          |
+| Speed                      | Faster (no initialization)                    | Slower (due to zero initialization)              |
+| Memory Allocation Type     | Contiguous block                              | Contiguous block                                 |
+| Header File Required       | #include <stdlib.h>                           | #include <stdlib.h>                              |
++----------------------------+-----------------------------------------------+--------------------------------------------------+
+
+
+
+Which one is faster
+malloc() is faster than calloc()
+
+malloc() simply allocates memory without initializing it.
+
+calloc() allocates and initializes all allocated bytes to zero, which takes extra time.
+
+
+What is dbms
+
+What do u use in sql
+
+What is dcl, dml,ddl with eg
+dcl- data control language, eg: grant, revoke
+dml- data manipulation language, eg: insert, update, delete
+ddl-data definition language, eg: create, drop, alter, truncate
+
+Under which command select falls
+DQL(data query language)
+
+3 sql query
+
+name of emp with highest sal
+names of emp with highest sal in alphabetical order
+name of highest paying male & female emp
+
+Why tcs
+
+Hike of tcs
+
+Have u given gate? Why are you not opting for higher study
+
+What are your hobbies? Related qns
+
+Why did u get ninja? ( they suggested about upgradation after getting selected in tcs for digital & prime)
+There were compiler issues, the code wasn't giving any o/p
+
+Any qns from your side.
+types of joins explanation.
+
+Describe your teamwork skills.
+I work well with others by listening and sharing ideas. I help the team reach our goals and support my teammates. I communicate clearly and try to solve problems peacefully. I like to keep the team happy and focused.
