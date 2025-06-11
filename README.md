@@ -10,3 +10,6 @@ Campusmonk, KN Academy, Online Study4you
 
 ## Recommended coding platform for coding practice: 
 Take You Forward(TUF- bu Striver)
+
+## Mock Test Platform(Free):
+Prepinsta, Testbook(some can be primium)
